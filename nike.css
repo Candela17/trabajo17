@@ -1,0 +1,37 @@
+.caja1{
+
+color: black;
+background-color: rgb(208, 175, 240);
+padding: 60px;
+width: 300px;
+height: 250px;
+margin:auto; /*podemos pedir que el bloque se centre con el auto*/
+}
+
+.caja2{
+    color: black;
+    background-color: rgb(238, 118, 212);
+    padding: 60px;
+    width:300px;
+    height: 350px;
+    margin:auto;/*podemos pedir que el bloque se centre con el auto*/
+}
+
+.caja3{
+    color:black;
+    background-color: rgb(136, 236, 245);
+    padding: 60px;
+    width: 300px;
+    height: 350px;
+    margin:auto;/*podemos pedir que el bloque se centre con el auto*/
+
+    
+}
+.caja4{
+    color: black;
+    background-color: rgb(132, 231, 130);
+    padding: 60px;
+    width: 300px;
+    height: 350;
+    margin:auto;/*podemos pedir que el bloque se centre con el auto*/
+}
